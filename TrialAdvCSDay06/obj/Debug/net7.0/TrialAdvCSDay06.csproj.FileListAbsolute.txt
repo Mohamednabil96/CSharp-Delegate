@@ -1,0 +1,15 @@
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\bin\Debug\net7.0\TrialAdvCSDay06.exe
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\bin\Debug\net7.0\TrialAdvCSDay06.deps.json
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\bin\Debug\net7.0\TrialAdvCSDay06.runtimeconfig.json
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\bin\Debug\net7.0\TrialAdvCSDay06.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\bin\Debug\net7.0\TrialAdvCSDay06.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.csproj.AssemblyReference.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.AssemblyInfoInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.AssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.csproj.CoreCompileInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\refint\TrialAdvCSDay06.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\TrialAdvCSDay06.genruntimeconfig.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\TrialAdvCSDay06\obj\Debug\net7.0\ref\TrialAdvCSDay06.dll
